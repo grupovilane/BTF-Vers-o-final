@@ -1,0 +1,484 @@
+{
+  "nav": {
+    "whoWeAre": "Quiénes somos",
+    "liga": "Ecossistema BTF",
+    "services": "Servicios",
+    "events": "Eventos",
+    "cta": "Hablar con un experto",
+    "contact": "Contacto",
+    "careers": "Carreras",
+    "menu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "primary": "Navegación principal",
+    "language": "Idioma"
+  },
+  "hero": {
+    "tag": "Ecosistema de Tecnología Enterprise",
+    "title": "Tecnología estratégica que <0>transforma</0> desafíos complejos en valor de negocio.",
+    "subtitle": "BTF conecta especialistas, metodologías y plataformas (Salesforce, IA, Seguridad y Gobernanza) para acelerar la transformación digital de empresas enterprise.",
+    "ctaPrimary": "Programar diagnóstico estratégico",
+    "ctaSecondary": "Conocer el ecosistema",
+    "stats": {
+      "exp": "Años de experiencia",
+      "projects": "Proyectos entregados",
+      "satisfaction": "Satisfacción ejecutiva"
+    }
+  },
+  "clients": {
+    "title": "Empresas atendidas en nuestra trayectoria"
+  },
+  "ecosystem": {
+    "tag": "Quiénes somos",
+    "title": "Un <0>ecosistema</0>, no una empresa de servicios.",
+    "desc1": "BTF es una consultoría estratégica de tecnología e innovación. Nacimos de una convicción: ninguna transformación digital relevante ocurre sin confianza, especialistas y un modelo de entrega que piensa en el negocio antes que en la tecnología. Por eso actuamos como socios de negocios, modernizando las operaciones de punta a punta al conectar estrategia, personas, procesos y tecnología.",
+    "desc2": "Entregamos tecnología estratégica que transforma desafíos complejos en valor de negocio, conectando especialistas, metodologías y plataformas (Salesforce, IA, Seguridad y Gobernanza) para acelerar la transformación digital de empresas enterprise.",
+    "capabilities": [
+      "Analizamos desafíos de negocio",
+      "Diseñamos estrategias digitales",
+      "Implementamos plataformas",
+      "Integramos sistemas",
+      "Automatizamos procesos",
+      "Protegemos la información",
+      "Estructuramos la gobernanza",
+      "Apoyamos la evolución continua"
+    ],
+    "pillars": [
+      {
+        "title": "Inteligencia Colectiva",
+        "desc": "Una red orquestada de especialistas certificados en tecnologías enterprise; no una simple empresa de servicios."
+      },
+      {
+        "title": "Stack Multidisciplinario",
+        "desc": "Salesforce, IA, Seguridad, Arquitectura y Gobernanza operando como una sola capa de valor."
+      },
+      {
+        "title": "Enfoque en Resultados",
+        "desc": "Cada proyecto vinculado a KPIs ejecutivos: ingresos, eficiencia, riesgo y experiencia del cliente."
+      },
+      {
+        "title": "Tecnología Estratégica",
+        "desc": "Decisiones de arquitectura que sobreviven al próximo ciclo de innovación, no solo al próximo trimestre."
+      }
+    ],
+    "highlights": [
+      {
+        "t": "Experiencia Sólida",
+        "d": "Más de 15 años de experiencia consolidada en tecnología."
+      },
+      {
+        "t": "+100 clientes atendidos",
+        "d": "Historial de éxito en diversos segmentos y tamaños."
+      },
+      {
+        "t": "Socio, no proveedor",
+        "d": "Conectamos estrategia, personas, procesos y tecnología."
+      }
+    ]
+  },
+  "liga": {
+    "tag": "Ecosistema BTF",
+    "title": "Conozca a los personajes de la <0>inteligencia colectiva BTF</0>.",
+    "intro": {
+      "title": "Diferentes inteligencias. Un único propósito.",
+      "p1": "Creemos que los grandes resultados no dependen solo de la tecnología.\nDependen de estrategia, colaboración, precisión, protección, adaptación y capacidad de ejecución.",
+      "p2": "Por eso creamos el BTF Intelligence Ecosystem: un conjunto de inteligencias que representan las competencias necesarias para transformar desafíos complejos en resultados consistentes.",
+      "p3": "Cada inteligencia representa una fuerza. Juntas, representan a BTF."
+    },
+    "representsLabel": "Representa:",
+    "prev": "Inteligencia anterior",
+    "next": "Siguiente inteligencia",
+    "view": "Ver",
+    "altSuffix": "inteligencia del BTF Intelligence Ecosystem",
+    "items": {
+      "NEXANT": {
+        "role": "Construcción e Inteligencia Colectiva",
+        "desc": "Nexant representa la capacidad de construir soluciones de forma estructurada, conectando personas, procesos y tecnología.\nNinguna transformación ocurre de forma aislada. Los grandes resultados se construyen con colaboración, organización e inteligencia colectiva.",
+        "represents": "Colaboración • Procesos • Construcción • Organización"
+      },
+      "BEEYA": {
+        "role": "Conexión e Innovación",
+        "desc": "Beeya representa la conexión entre ideas, personas y tecnologías.\nEs la inteligencia que busca nuevas posibilidades, identifica oportunidades y transforma distintos elementos en soluciones innovadoras.",
+        "represents": "Conexión • Innovación • Integración • Creatividad"
+      },
+      "AURON": {
+        "role": "Visión y Estrategia",
+        "desc": "Auron representa la capacidad de ver más allá del problema inmediato.\nAntes de actuar hay que entender el escenario, anticipar riesgos e identificar oportunidades.\nEs la inteligencia responsable de la visión estratégica.",
+        "represents": "Estrategia • Visión • Análisis • Dirección"
+      },
+      "KINGLY": {
+        "role": "Confianza y Protección",
+        "desc": "Kingly representa seguridad, confianza y protección.\nEn un mundo impulsado por datos y tecnología, crecer también significa proteger la información, los procesos y los activos importantes del negocio.",
+        "represents": "Seguridad • Gobernanza • Confianza • Protección"
+      },
+      "VECTOR": {
+        "role": "Ejecución y Entrega",
+        "desc": "La estrategia sin ejecución no genera transformación.\nVector representa movimiento, dirección y la capacidad de convertir la planificación en resultados.\nEs la inteligencia de la entrega.",
+        "represents": "Ejecución • Proyectos • Rendimiento • Resultados"
+      },
+      "LUMI": {
+        "role": "Experiencia Humana y Propósito",
+        "desc": "La tecnología está hecha para las personas.\nLumi representa la inteligencia que coloca la experiencia humana en el centro de las decisiones, garantizando que la innovación y la transformación tengan sentido para quien usa la solución.",
+        "represents": "Personas • Experiencia • Propósito • Conexión"
+      },
+      "RAMMIUS": {
+        "role": "Transformación y Cambio",
+        "desc": "Transformar exige valentía para cambiar.\nRammius representa la fuerza necesaria para superar barreras, romper patrones y conducir a las empresas a través de procesos de transformación.",
+        "represents": "Cambio • Transformación • Resiliencia • Evolución"
+      },
+      "PRISMA": {
+        "role": "Precisión y Calidad",
+        "desc": "Los pequeños detalles pueden generar grandes impactos.\nPrisma representa precisión, calidad y atención a los elementos que garantizan la confiabilidad de una solución.",
+        "represents": "Calidad • Precisión • Pruebas • Excelencia"
+      },
+      "FLOW": {
+        "role": "Adaptación y Evolución",
+        "desc": "El mercado cambia. La tecnología cambia. Los negocios también.\nFlow representa la capacidad de adaptación continua y evolución frente a nuevos desafíos, escenarios y oportunidades.",
+        "represents": "Adaptación • Agilidad • Evolución • Flexibilidad"
+      }
+    }
+  },
+  "services": {
+    "tag": "Servicios",
+    "title": "Seis capacidades integradas. <0>Una única tesis de valor: resultados.</0>",
+    "desc": "De la estrategia a la ejecución, cada capacidad está orientada a generar impacto medible en el negocio.",
+    "items": [
+      {
+        "title": "Salesforce Enterprise",
+        "desc": "Implementaciones y evoluciones en Sales Cloud, Service Cloud, Marketing Cloud, CPQ e Industries/Vlocity con squads certificados."
+      },
+      {
+        "title": "IA y Automatización",
+        "desc": "Copilots, agentes inteligentes y automatización de procesos; IA aplicada donde genera Ganancias y Pérdidas medibles, no donde genera demostraciones."
+      },
+      {
+        "title": "Seguridad y Gobernanza",
+        "desc": "Gestión de riesgos, cumplimiento LGPD/ISO, identidad, datos y auditoría continua para entornos regulados."
+      },
+      {
+        "title": "Arquitectura de Soluciones",
+        "desc": "Blueprints, integraciones y modernización de plataformas; decisiones técnicas alineadas con la estrategia a largo plazo."
+      },
+      {
+        "title": "Transformación Digital",
+        "desc": "Hojas de ruta ejecutivas, rediseño de procesos y cambio cultural liderado con método y patrocinio de nivel C."
+      },
+      {
+        "title": "Proyectos Ágiles and PMO",
+        "desc": "Gestión de proyectos con squads ágiles, gobernanza híbrida y cadencia ejecutiva orientada a entregas previsibles."
+      }
+    ]
+  },
+  "numbers": {
+    "tag": "Resultados comprobados",
+    "title": "Números que lo <0>demuestran</0>.",
+    "desc": "Más de 15 años entregando infraestructura, software y ciberseguridad para empresas que no pueden parar.",
+    "stats": [
+      {
+        "v": "+15",
+        "t": "años en el mercado",
+        "d": "Actuación consolidada en tecnología y seguridad."
+      },
+      {
+        "v": "+100",
+        "t": "empresas atendidas",
+        "d": "Soluciones basadas en datos, con eficiencia y previsibilidad."
+      },
+      {
+        "v": "45%",
+        "t": "aumento en ventas",
+        "d": "Ganancia media de ingresos en proyectos de optimización comercial."
+      },
+      {
+        "v": "97%",
+        "t": "clientes satisfechos",
+        "d": "Nota media en encuestas de satisfacción posproyecto."
+      }
+    ]
+  },
+  "authority": {
+    "tag": "Autoridad",
+    "title": "Resultados que <0>la dirección entiende</0>.",
+    "desc": "Trabajamos con líderes que necesitan justificar la inversión en tecnología ante la junta directiva. Por eso medimos el impacto donde importa.",
+    "diffs": [
+      {
+        "t": "Senioridad real",
+        "d": "Squads liderados por arquitectos con más de 15 años en transformaciones enterprise."
+      },
+      {
+        "t": "Enfoque en P&L",
+        "d": "Cada entrega se traduce en métricas de negocio antes que en métricas técnicas."
+      },
+      {
+        "t": "Visión sistémica",
+        "d": "Salesforce, IA, Seguridad y Datos pensados como un solo organismo."
+      },
+      {
+        "t": "Entrega previsible",
+        "d": "Cadencia ágil + gobernanza ejecutiva = sorpresas solo cuando son buenas."
+      }
+    ],
+    "cases": [
+      {
+        "kpi": "+42%",
+        "label": "Aumento de la productividad comercial en proyecto Sales Cloud en una de las 5 principales aseguradoras."
+      },
+      {
+        "kpi": "-31%",
+        "label": "Reducción del costo de atención vía Service Cloud + IA en comercio minorista nacional."
+      },
+      {
+        "kpi": "8 sem.",
+        "label": "Go-live de CPQ en multinacional de manufactura, con integración ERP completa."
+      },
+      {
+        "kpi": "+3x",
+        "label": "Aceleración del embudo de Marketing Cloud en vertical de educación privada."
+      }
+    ]
+  },
+  "cta": {
+    "tag": "Diagnóstico estratégico gratuito",
+    "title": "Diseñemos la próxima etapa de su <0>transformación digital</0>.",
+    "desc": "Conversación de 30 minutos con un arquitecto sénior de BTF. Sin discursos de venta; solo lectura de escenario y recomendación técnica.",
+    "benefits": [
+      "Para CIOs, CTOs y Directores de TI",
+      "Confidencialidad total sobre los datos compartidos",
+      "Respuesta en un máximo de 1 día hábil"
+    ],
+    "success": {
+      "title": "Contacto recibido.",
+      "desc": "Un especialista de BTF se pondrá en contacto en un máximo de 1 día hábil.",
+      "toast": "Diagnóstico solicitado. Un especialista de BTF responderá en un máximo de 1 día hábil."
+    },
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo corporativo",
+      "email_error": "Por favor, introduzca un correo electrónico válido.",
+      "phone": "Teléfono / WhatsApp",
+      "phone_error": "Por favor, introduzca un teléfono válido.",
+      "company": "Empresa",
+      "role": "Cargo (CIO, Director, Gerente...)",
+      "service": "Seleccione un servicio",
+      "message": "Cuéntenos brevemente su desafío",
+      "submit": "Solicitar diagnóstico estratégico gratuito",
+      "consent": "He leído y acepto la Política de Privacidad y autorizo el contacto de BTF sobre mi solicitud.",
+      "careers": "Trabaja con Nosotros",
+      "consent_error": "Debe aceptar la Política de Privacidad para enviar.",
+      "privacyLink": "Ver Política de Privacidad",
+      "message_error": "La descripción debe tener al menos 20 caracteres.",
+      "message_hint": "Mínimo de 20 caracteres",
+      "sending": "Enviando..."
+    },
+    "services": {
+      "arch": "Arquitectura de Soluciones y Transformación Digital",
+      "auto": "Automatizaciones",
+      "consult": "Consultoría Empresarial",
+      "cyber": "Ciberseguridad y LGPD",
+      "int": "Integraciones",
+      "sales": "Salesforce y CRM Enterprise",
+      "security": "Seguridad Cibernética",
+      "others": "Otros"
+    },
+    "error": "Error al enviar. Inténtelo de nuevo o use WhatsApp.",
+    "careersForm": {
+      "title": "Únete al equipo BTF",
+      "desc": "Buscamos talentos que quieran transformar el mercado de tecnología enterprise.",
+      "role": "Função (Obrigatório)",
+      "rolePlaceholder": "Ej: Desarrollador Salesforce, Arquitecto de Seguridad...",
+      "brief": "Breve descripción (Mínimo 20 caracteres)",
+      "brief_error": "La descripción debe tener al menos 20 caracteres.",
+      "brief_hint": "Mínimo 20 caracteres",
+      "portfolio": "Enlace al portafolio (Opcional)",
+      "resume": "Adjuntar currículum (Obligatorio)",
+      "resumePlaceholder": "Seleccionar archivo PDF",
+      "success": "¡Currículum enviado con éxito! Nuestro equipo de RRHH analizará tu perfil.",
+      "error": "Error al enviar el currículum. Inténtalo de nuevo."
+    }
+  },
+  "events": {
+    "tag": "Agenda Tech",
+    "title": "Manténgase al día con los <0>eventos Tech</0> que ocurren en Brasil.",
+    "desc": "Seleccionamos los próximos encuentros de tecnología, ingeniería y seguridad en el país. Fuente: <0>Agenda Tech Brasil</0>.",
+    "modes": {
+      "presencial": "Presencial",
+      "hibrido": "Híbrido"
+    },
+    "months": ["ENE", "FEB", "MAR", "ABR", "MAY", "JUN", "JUL", "AGO", "SEP", "OCT", "NOV", "DIC"]
+  },
+  "faq": {
+    "tag": "Dudas",
+    "title": "Preguntas <0>frecuentes</0>",
+    "items": [
+      {
+        "q": "¿Mi empresa creció muy rápido, pero me perdí en el camino. ¿Dónde puede ayudarme BTF?",
+        "a": "BTF ayuda a reorganizar el crecimiento de su empresa mediante el diagnóstico de procesos, tecnología, proyectos e información. Identificamos cuellos de botella, priorizamos oportunidades y estructuramos soluciones para aportar más control, eficiencia y previsibilidad a la operación."
+      },
+      {
+        "q": "Tengo algunos sistemas internos, pero no se integran. ¿Qué se debe hacer?",
+        "a": "Primero evaluamos los sistemas, procesos y datos involucrados. A partir de ese diagnóstico, definimos la mejor estrategia de integración, automatización o evolución tecnológica, buscando reducir el retrabajo y centralizar la información importante para el negocio."
+      },
+      {
+        "q": "Tengo tecnología, pero no logro extraer todo su potencial.",
+        "a": "La tecnología sin estrategia, procesos bien definidos y seguimiento puede no generar el resultado esperado. BTF evalúa el escenario actual, identifica oportunidades de mejora y crea un plan para que sus inversiones en tecnología generen más productividad, control y valor para el negocio."
+      },
+      {
+        "q": "¿Están seguros mis datos durante el proyecto de consultoría?",
+        "a": "La protección de la información es parte fundamental de nuestra actuación. Trabajamos con confidencialidad, control de accesos, buenas prácticas de seguridad y principios de protección de datos compatibles con la naturaleza y el alcance de cada proyecto."
+      },
+      {
+        "q": "¿Cuánto tiempo toma implementar una solución de CRM o automatización?",
+        "a": "El plazo depende de la complejidad del negocio, la cantidad de procesos, integraciones y objetivos del proyecto. Las soluciones más simples pueden implementarse en pocas semanas, mientras que los proyectos más robustos exigen planificación y ejecución por etapas. Tras el diagnóstico, presentamos un cronograma claro y realista."
+      }
+    ]
+  },
+  "footer": {
+    "newsletter": {
+      "tag": "Actualizaciones",
+      "title": "Manténgase al día con el mundo de la tecnología",
+      "desc": "Reciba contenidos exclusivos sobre eventos, ferias y noticias directamente en su correo electrónico.",
+      "placeholder": "su@email.com",
+      "button": "Suscribirse",
+      "success": "¡Suscripción realizada con éxito!",
+      "optIn": "Autorizo la recepción de contenidos y comunicaciones de BTF.",
+      "optInError": "Debe autorizar la recepción de comunicaciones."
+    },
+    "about": "Expertos en Salesforce, IA, ciberseguridad, nube y gobernanza. Tecnología estratégica para empresas enterprise.",
+    "followUs": "Síguenos",
+    "links": "Enlaces útiles",
+    "nav": "Navegación",
+    "contact": "Contacto",
+    "rights": "© {{year}} BTF. Blue Trust Force. Todos los derechos reservados.",
+    "legalLinks": {
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Uso",
+      "cookies": "Política de Cookies"
+    },
+    "manageCookies": "Gestionar cookies",
+    "hq": "Sede",
+    "branch": "Sucursal",
+    "legal": "Legal",
+    "compliance": "CNPJ 46.165.879/0001-22 · LGPD · alineado a ISO 27001",
+    "developedBy": "Desarrollado por Grupo Vilane"
+  },
+  "cookies": {
+    "title": "Usamos cookies",
+    "desc": "Utilizamos cookies para mejorar su experiencia. Ninguna cookie analítica o de marketing se carga antes de su elección.",
+    "decline": "Rechazar",
+    "accept": "Aceptar todas",
+    "manage": "Preferencias",
+    "save": "Guardar preferencias",
+    "policyLink": "Leer la Política de Cookies",
+    "necessary": "Necesarias",
+    "necessaryDesc": "Esenciales para el funcionamiento del sitio. Siempre activas.",
+    "analytics": "Analíticas",
+    "analyticsDesc": "Miden el uso y el rendimiento de las páginas.",
+    "marketing": "Marketing",
+    "marketingDesc": "Permiten medición de campañas y remarketing."
+  },
+  "careers": {
+    "tag": "Carreras",
+    "title": "Ven a construir innovación con BTF",
+    "desc": "Participa en proyectos que convierten desafíos complejos en resultados.",
+    "cta": "Enviar candidatura",
+    "highlights": [
+      "Proyectos de alto impacto",
+      "Crecimiento técnico",
+      "Equipo colaborativo"
+    ],
+    "uploadNote": "Currículum en PDF, hasta 5 MB. Tus datos serán tratados exclusivamente para reclutamiento y selección.",
+    "modal": {
+      "title": "Trabaja con Nosotros",
+      "desc": "Completa tus datos y adjunta tu currículum en PDF. Tus datos se tratan exclusivamente para reclutamiento y selección.",
+      "submit": "Enviar candidatura",
+      "sending": "Enviando...",
+      "close": "Cerrar"
+    },
+    "fields": {
+      "name": "Nombre completo",
+      "email": "Correo profesional",
+      "phone": "Teléfono",
+      "role": "Puesto de interés",
+      "message": "Breve presentación",
+      "messageHint": "Mínimo de 20 caracteres.",
+      "portfolio": "Enlace de LinkedIn o portafolio (opcional)",
+      "resume": "Currículum en PDF",
+      "resumeHint": "Envía tu currículum en PDF (máximo 5 MB).",
+      "replaceFile": "Sustituir archivo",
+      "removeFile": "Eliminar archivo",
+      "consent": "He leído y acepto la Política de Privacidad. Autorizo a BTF a tratar mis datos personales exclusivamente para fines de reclutamiento y selección.",
+      "privacyLink": "Política de Privacidad",
+      "recruitmentPrivacyLink": "Privacidad para candidatos"
+    },
+    "errors": {
+      "name": "Indica tu nombre completo.",
+      "email": "Indica un correo válido.",
+      "phone": "Indica un teléfono válido.",
+      "role": "Indica el puesto de interés.",
+      "message": "La presentación debe tener al menos 20 caracteres.",
+      "url": "Indica una URL válida que comience con https://",
+      "pdfOnly": "Envía un archivo PDF válido.",
+      "tooLarge": "El archivo debe tener como máximo 5 MB.",
+      "empty": "El archivo seleccionado está vacío.",
+      "missingFile": "Adjunta tu currículum en PDF.",
+      "consent": "Debes autorizar el tratamiento de tus datos.",
+      "generic": "Revisa los campos destacados.",
+      "submit": "No fue posible enviar tu candidatura. Inténtalo de nuevo."
+    },
+    "success": {
+      "title": "Candidatura recibida con éxito.",
+      "desc": "Nuestro equipo evaluará tu perfil."
+    }
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "desc": "La página que buscas no existe o fue movida.",
+    "back": "Volver al inicio",
+    "meta": {
+      "title": "Página no encontrada | BTF. Blue Trust Force",
+      "description": "La página solicitada no se encontró en el sitio de BTF. Blue Trust Force."
+    }
+  },
+  "legal": {
+    "updatedLabel": "Última actualización:",
+    "updatedAt": "25/08/2026",
+    "privacy": {
+      "metaTitle": "Política de Privacidad | BTF. Blue Trust Force",
+      "metaDescription": "Cómo BTF. Blue Trust Force recopila, usa, almacena y protege los datos personales, conforme a la LGPD (Ley 13.709/2018).",
+      "title": "Política de Privacidad",
+      "body": "<p><strong>BTF. Blue Trust Force</strong> (CNPJ 46.165.879/0001-22) respeta tu privacidad. Esta política describe cómo tratamos los datos personales recopilados en este sitio, conforme a la Ley General de Protección de Datos de Brasil (LGPD, Ley 13.709/2018).</p><h2>1. Datos que recopilamos</h2><ul><li>Datos de contacto proporcionados voluntariamente en formularios: nombre, correo electrónico, teléfono, empresa y cargo.</li><li>Contenido del mensaje enviado en el formulario de diagnóstico.</li><li>Correo electrónico indicado para la suscripción al newsletter, mediante opt-in explícito.</li><li>Datos de navegación anonimizados, solo cuando aceptas las cookies analíticas.</li></ul><h2>2. Finalidades y base legal</h2><p>Utilizamos los datos para responder solicitudes comerciales, realizar diagnósticos técnicos y enviar las comunicaciones solicitadas. La base legal es el <strong>consentimiento</strong> del titular y, cuando corresponda, la ejecución de procedimientos preliminares relacionados con un contrato.</p><h2>3. Compartición</h2><p>No vendemos datos personales. Compartimos información solo con operadores necesarios para la prestación del servicio (infraestructura en la nube y herramientas de gestión de leads), siempre bajo obligación de confidencialidad.</p><h2>4. Retención</h2><p>Conservamos los datos durante el tiempo necesario para las finalidades anteriores o hasta que solicites su eliminación, salvo los casos de conservación obligatoria previstos por ley.</p><h2>5. Derechos del titular</h2><p>Puedes solicitar confirmación del tratamiento, acceso, corrección, anonimización, portabilidad, revocación del consentimiento y eliminación de los datos. Escríbenos a <a class=\"text-primary-glow hover:underline\" href=\"mailto:contato@bluetrustforce.com.br\">contato@bluetrustforce.com.br</a>.</p><h2>6. Seguridad</h2><p>Adoptamos controles técnicos y organizativos alineados con las buenas prácticas de seguridad de la información, incluyendo cifrado en tránsito, control de acceso y monitoreo.</p><h2 id=\"recrutamento\">7. Reclutamiento y selección (Trabaja con nosotros)</h2><p><strong>Finalidad:</strong> evaluar candidaturas para vacantes actuales y futuras en BTF, conducir procesos de selección y mantener contacto con las personas candidatas.</p><p><strong>Datos recopilados:</strong> nombre completo, correo profesional, teléfono, cargo de interés, breve presentación, enlace opcional de LinkedIn o portafolio y currículum en PDF, además de metadatos técnicos del archivo (nombre, tamaño, tipo y fecha de envío).</p><p><strong>Base legal:</strong> consentimiento del titular (art. 7, I, de la LGPD) y ejecución de procedimientos preliminares relacionados con un eventual contrato laboral (art. 7, V).</p><p><strong>Plazo de retención:</strong> 12 meses desde el envío de la candidatura. Después de ese período, el registro y el currículum se eliminan de forma segura mediante una rutina automatizada.</p><p><strong>Compartición:</strong> los datos son accedidos únicamente por el equipo autorizado de RR. HH. de BTF y por operadores de infraestructura en la nube contratados, bajo obligación de confidencialidad. Los currículums no se publican, venden ni envían a terceros sin base legal.</p><p><strong>Medidas de seguridad:</strong> transmisión mediante HTTPS, almacenamiento en repositorio privado con cifrado en reposo, ausencia de URLs públicas, acceso interno con autenticación y autorización por función, enlaces temporales firmados con expiración de 10 minutos y registro de auditoría de visualizaciones, descargas y eliminaciones.</p><p><strong>Derechos del titular y eliminación:</strong> puedes solicitar confirmación del tratamiento, acceso, corrección, portabilidad, revocación del consentimiento y eliminación de tu candidatura y currículum en cualquier momento. El responsable del tratamiento puede ser contactado en <a class=\"text-primary-glow hover:underline\" href=\"mailto:contato@bluetrustforce.com.br\">contato@bluetrustforce.com.br</a>. Las solicitudes de eliminación se atienden con la remoción del registro y del archivo, con registro de auditoría.</p><h2>8. Cookies</h2><p>El uso de cookies se detalla en nuestra <a class=\"text-primary-glow hover:underline\" href=\"/cookies\">Política de Cookies</a>. Ninguna cookie analítica o de marketing se activa antes de tu consentimiento.</p>"
+    },
+    "terms": {
+      "metaTitle": "Términos de Uso | BTF. Blue Trust Force",
+      "metaDescription": "Condiciones de uso del sitio de BTF. Blue Trust Force: propiedad intelectual, responsabilidades y reglas de utilización del contenido.",
+      "title": "Términos de Uso",
+      "body": "<p>Al acceder y utilizar este sitio, aceptas los presentes Términos de Uso. Si no estás de acuerdo, recomendamos interrumpir la navegación.</p><h2>1. Objeto</h2><p>Este sitio tiene finalidad informativa e institucional, presentando los servicios de tecnología, consultoría Salesforce, inteligencia artificial, seguridad de la información y gobernanza de TI de <strong>BTF. Blue Trust Force</strong>.</p><h2>2. Propiedad intelectual</h2><p>Textos, marcas, logotipos, ilustraciones y demás elementos son titularidad de BTF o de sus licenciantes. Queda prohibida la reproducción total o parcial sin autorización previa y por escrito.</p><h2>3. Uso adecuado</h2><ul><li>No utilizar el sitio con fines ilícitos o que violen derechos de terceros.</li><li>No intentar acceder a áreas restringidas, explotar vulnerabilidades ni automatizar envíos masivos.</li><li>Proporcionar información veraz en los formularios de contacto.</li></ul><h2>4. Limitación de responsabilidad</h2><p>La información se proporciona de buena fe y puede actualizarse en cualquier momento. BTF no se responsabiliza por decisiones tomadas exclusivamente con base en el contenido institucional de este sitio.</p><h2>5. Enlaces de terceros</h2><p>Los enlaces externos se ofrecen por conveniencia y no implican respaldo al contenido de terceros.</p><h2>6. Jurisdicción y contacto</h2><p>Estos términos se rigen por la legislación brasileña. Las dudas pueden enviarse a <a class=\"text-primary-glow hover:underline\" href=\"mailto:contato@bluetrustforce.com.br\">contato@bluetrustforce.com.br</a>.</p>"
+    },
+    "cookies": {
+      "metaTitle": "Política de Cookies | BTF. Blue Trust Force",
+      "metaDescription": "Qué cookies utiliza el sitio de BTF, para qué sirven y cómo gestionar tus preferencias de cookies necesarias, analíticas y de marketing.",
+      "title": "Política de Cookies",
+      "manage": "Gestionar cookies",
+      "body": "<p>Las cookies son pequeños archivos guardados en tu dispositivo durante la navegación. En este sitio, <strong>ninguna cookie analítica o de marketing se carga antes de tu consentimiento explícito</strong>.</p><h2>Categorías utilizadas</h2><ul><li><strong>Necesarias:</strong> esenciales para el funcionamiento del sitio, como el registro de tu preferencia de cookies y del idioma seleccionado. No pueden desactivarse.</li><li><strong>Analíticas:</strong> miden el rendimiento y el uso de las páginas (Google Tag Manager / Google Analytics). Solo se activan tras la aceptación.</li><li><strong>Marketing:</strong> permiten la medición de campañas y remarketing. Solo se activan tras la aceptación.</li></ul><h2>Registro del consentimiento</h2><p>Tu elección se almacena localmente con fecha, hora y versión de esta política (versión actual: <strong>{{version}}</strong>). Cuando publiquemos una nueva versión, solicitaremos nuevamente tu elección.</p><h2>Cómo cambiar tu decisión</h2><p>Puedes revisar o revocar el consentimiento en cualquier momento mediante el botón de abajo o el enlace “Gestionar cookies” del pie de página. También puedes borrar las cookies desde la configuración del navegador.</p>"
+    }
+  },
+  "errors": {
+    "rate_limited": "Demasiados intentos. Inténtalo de nuevo en unos minutos.",
+    "invalid_email": "Correo electrónico inválido.",
+    "invalid_name": "Nombre inválido.",
+    "invalid_phone": "Teléfono inválido.",
+    "invalid_company": "Empresa inválida.",
+    "invalid_message": "Mensaje inválido.",
+    "invalid_role": "Cargo inválido.",
+    "invalid_service": "Servicio inválido.",
+    "consent_required": "Consentimiento obligatorio.",
+    "upstream": "No fue posible registrar tu envío en este momento. Inténtalo de nuevo en unos instantes.",
+    "unexpected": "Error inesperado al procesar el envío."
+  },
+  "seo": {
+    "home": {
+      "title": "BTF. Blue Trust Force | Transformación Digital y Salesforce",
+      "description": "Ecosistema de especialistas en Salesforce, IA, seguridad y gobernanza de TI. Tecnología estratégica que convierte desafíos complejos en valor de negocio.",
+      "orgDescription": "Ecosistema de especialistas en Salesforce, IA, seguridad de la información y gobernanza de TI para empresas enterprise."
+    }
+  }
+}

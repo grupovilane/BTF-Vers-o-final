@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://btf-innovation-hub.lovable.app/sitemap.xml
